@@ -1,4 +1,4 @@
-# Reading Reflection: January 13th
+# Reading Reflection: January 14th
 
 ## The Conditions of Flow
 
