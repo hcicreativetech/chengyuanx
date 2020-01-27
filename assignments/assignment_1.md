@@ -16,7 +16,7 @@ What can I do to make it better? Jim made the installations with physical LED li
 
 With the "what" answered, the "how" became the fun part. It leads us back to the coding foundations. I was able to enjoy the making of the project in Processing because I had learned the essential tools needed just enough to realize what I had in mind. Processing provided easy visualization to build various light arrangments in three dimensions. Daniel Shiffman's video showed me how to use the difference between consecutive video frames to capture motion. Equipped with these basic tools, I enjoyed many nights dancing like a madman in front of my laptop, just to create more combinations and more fun. 
 
-![Figure 3](imgs/motionLight_5-1.png)  
+![Figure 3](http://cyxu.tv/wp-content/uploads/2019/01/motionLight_5-1-e1548874177103.png)
 [MotionLight project page.](http://cyxu.tv/portfolio/motionlight/)
 
 The code behind this work was not hard in any way for other developers, but it remained my favorite. There were many design or engineering decisions I could do better. But the one improvement worth revisiting this project is to look beyond the course requirement and treat it as the subject of an HCI study, follow up on user studies. From the HCI perspective, this project was about how I understood the relationship between motion, light, pixel, and spatial depth, how I decided which six of the many interactive modes to release in the final version, how I introduced the music element to rhyme with the motion. Moreover, by displaying the interactive experience at a public vanue, we could improve the work by learning how people figure out the connection between the motion and pixels, the music and the shape, and the triggers that change the modes. 
