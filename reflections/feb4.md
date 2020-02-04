@@ -1,3 +1,5 @@
+# Reading Reflection: February 4th
+
 ## Lessons from the Woodshop
 The research method in this paper indeed provided detailed observations and some generalized reflections, with the hope that such generalized ideas could transfer the lessons from one domain to another, from analog to digital, from physical to virtual. But in reality, it often requires a practitioner to understand one's own medium, tools, or domain knowledge very well to be able to build the connection between general rules and specific objective/practice for improved applications. 
 
